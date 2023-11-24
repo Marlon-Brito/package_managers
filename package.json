@@ -1,0 +1,31 @@
+{
+  "name": "package_managers",
+  "version": "1.0.0",
+  "description": "Curso de JavaScript - Aprendendo sobre gerenciamento de pacotes com NPM",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test2": "cls && echo 'Hello Script!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marlon-Brito/package_managers.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "javascript",
+    "package",
+    "managers",
+    "npm"
+  ],
+  "author": "Marlon Brito",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marlon-Brito/package_managers/issues"
+  },
+  "homepage": "https://github.com/Marlon-Brito/package_managers#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
