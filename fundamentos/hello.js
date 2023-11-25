@@ -1,4 +1,5 @@
-const colors = require('colors'); // importando os recursos do pacote colors
+// importando os recursos de pacotes
+const colors = require('colors');
 
 console.log('Olá, mundo!'.rainbow);
 console.log(colors.bgGreen('Hello, world!'));
